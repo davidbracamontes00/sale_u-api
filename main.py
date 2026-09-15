@@ -20,9 +20,9 @@ app.add_middleware(
 
 SALEU_URL = "https://api.sale-u.com/v1/ConexionTerceros/GenerarLeadAPIJSONAgenciaAPS.php"
 
-AUTHORIZATION_TOKEN = "1633fbfc54a2ff34f32e3f3f5a7d9c4534da5721cc28d3cb8103e4a719"
+AUTHORIZATION_TOKEN = ""
 
-SECRET_TOKEN = "e44959061707c7a9871897ea0c44b0ee39b58a30be559c41b438f702c4"
+SECRET_TOKEN = ""
 
 AGENCIA = "MGCHIH0478"
 
